@@ -217,6 +217,7 @@ MonoBehaviour:
   speed: 15
   leftAndRightEdge: 20
   chanceToChangeDirections: 0.1
+  secondsPastForChangeDirections: 3
   secondsBetweenAppleDrops: 1
 --- !u!135 &135508528778517776
 SphereCollider:
