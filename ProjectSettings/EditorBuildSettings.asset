@@ -4,4 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ApplePicker/__Scenes/Scene_Menu.unity
+    guid: 76147a488f3520e4b88a83f801b219b0
+  - enabled: 1
+    path: Assets/ApplePicker/__Scenes/Scene_Game.unity
+    guid: 8ca631a8a1b3f004e81d3c1e3c4d0715
+  - enabled: 0
+    path: Assets/Match3/Scenes/Menu.unity
+    guid: 455196da2c306994f863bd794f3291d8
+  - enabled: 0
+    path: Assets/Match3/Scenes/Game.unity
+    guid: 9b1005684396bfc448207df42446a407
+  m_configObjects: {}
