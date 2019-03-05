@@ -648,6 +648,21 @@ Prefab:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 65583148442277788, guid: 469c00463dbb63a4692376c0e5101a1e,
+        type: 2}
+      propertyPath: m_Size.x
+      value: 691.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 65583148442277788, guid: 469c00463dbb63a4692376c0e5101a1e,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 1116.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 65583148442277788, guid: 469c00463dbb63a4692376c0e5101a1e,
+        type: 2}
+      propertyPath: m_Size.z
+      value: 200
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 469c00463dbb63a4692376c0e5101a1e, type: 2}
   m_IsPrefabAsset: 0

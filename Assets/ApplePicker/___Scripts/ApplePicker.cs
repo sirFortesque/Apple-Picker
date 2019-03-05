@@ -136,7 +136,7 @@ public class ApplePicker : MonoBehaviour {
         
         if (CurrentSceneName == "Scene_Menu") {           
             numBaskets = 3;            
-            grv.y = -10;
+            grv.y = -25;
             Physics.gravity = grv;           
         }        
 
